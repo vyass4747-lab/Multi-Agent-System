@@ -63,25 +63,25 @@ Final Research Report
 
 ##  Home Interface
 
-<img width="100%" alt="home-ui" src="D:\Multi Agent System\screenshots\Screenshot (176).png">
+![App screenshot](screenshots/Screenshot%20(176).png)
 
 ---
 
 ##  Agent Workflow
 
-<img width="100%" alt="workflow" src="D:\Multi Agent System\screenshots\Screenshot (179).png">
+![App screenshot](screenshots/Screenshot%20(179).png)
 
 ---
 
 ##  Generated Research Report
 
-<img width="100%" alt="report" src="D:\Multi Agent System\screenshots\Screenshot (180).png">
+![App screenshot](screenshots/Screenshot%20(180).png)
 
 ---
 
 ##  Critic Feedback System
 
-<img width="100%" alt="critic" src="D:\Multi Agent System\screenshots\Screenshot (181).png">
+![App screenshot](screenshots/Screenshot%20(181).png)
 
 ---
 
